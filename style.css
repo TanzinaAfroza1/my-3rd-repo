@@ -31,6 +31,10 @@ h1{
     color: blueviolet;
     font-size: medium;
 }
+img{
+    height: 700px;
+    width: 500px;
+}
 .friend{
     color: fuchsia;
     font-size: larger;
