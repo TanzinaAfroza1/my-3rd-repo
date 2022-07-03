@@ -3,15 +3,39 @@ body{
     margin: 100px 100px 200px 100px ;
 }
 p{
-    color: blue;
-    background-color: darkgoldenrod;
-    font-size: 30px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-
+    color: black;
+    font-size: 20px;
+    margin: 50px 10px 50px 10px;
 }
 h1{
     color: blueviolet;
-    background-color: brown;
-    font-size: medium;
+    font-size:30px;
+    margin-left: 10px;
+    margin-right: 10px;
 
+}
+#father{
+    color: darkgoldenrod;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#mather{
+    color: black;
+    font-size: 30px;
+}
+.family{
+    color: deeppink;
+    font-size: 30;
+}
+#Good{
+    color: blueviolet;
+    font-size: medium;
+}
+.friend{
+    color: fuchsia;
+    font-size: larger;
+}
+.frie{
+    color: lawngreen;
+    font-size: 15px;
 }
